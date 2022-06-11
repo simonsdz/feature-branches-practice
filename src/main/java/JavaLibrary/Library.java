@@ -5,6 +5,7 @@ package JavaLibrary;
 
 public class Library {
     public boolean someLibraryMethod() {
+        System.out.println("Hello brother");
         return true;
     }
 }
